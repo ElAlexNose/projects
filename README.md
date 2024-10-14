@@ -3,7 +3,7 @@ Biologia & Geologia
 Paginas utilizadas:
 https://github.com/ImAlexGGOficial/projects/
 https://github.com/
-https://www.canva.com/5
+https://www.canva.com/
 https://code.visualstudio.com/
 
 Participantes:
